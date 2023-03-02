@@ -1,4 +1,4 @@
-# Effects-of-various-factors-on-the-KOSPI
+# Visualize the impact of various factors on the KOSPI
 
 ### 본 코드와 발표자료는 데이콘 시각화 대회에 제출해 입상한 내용물을 포함합니다.
 
